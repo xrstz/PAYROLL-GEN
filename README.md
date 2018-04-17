@@ -1,5 +1,5 @@
 # PAYROLL-GEN
-This repo contains code on an prototpye payroll and inventory management system
+This repo contains code for a  prototpye payroll and inventory management system
 Contains 3 main html pages
 Login page
 Employee biodata
